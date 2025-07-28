@@ -1,17 +1,15 @@
-# 🌾 Sistema de Gerenciamento de Agricultores (Frontend)
+#  Sistema de Gerenciamento de Agricultores (Frontend)
 
 Este é o frontend de um sistema completo para gerenciar o cadastro de agricultores, incluindo operações CRUD (Criar, Ler, Atualizar, Excluir), validações de dados e uma interface de usuário moderna e responsiva.
 
 ## ✨ Funcionalidades
 
-*   **Cadastro de Agricultores (CRUD Completo):**
+*   **Cadastro de Agricultores (CRUD):**
     *   **Criar:** Formulário para adicionar novos agricultores com validação de dados.
     *   **Ler:** Listagem paginada e filtrável de agricultores, com visualização detalhada de cada registro.
     *   **Atualizar:** Formulário para editar informações de agricultores existentes, incluindo status de atividade.
     *   **Excluir:** Funcionalidade de exclusão com confirmação, que desativa automaticamente agricultores ativos antes de remover o registro.
 *   **Validação de Dados:** Validação de CPF e outros campos do formulário.
-*   **Interface Moderna:** Design limpo e intuitivo, construído com Tailwind CSS e componentes Shadcn/ui.
-*   **Tema Escuro:** Suporte a tema escuro para uma experiência de usuário confortável.
 *   **Responsividade:** Layout adaptável para diferentes tamanhos de tela (desktop, tablet, mobile).
 *   **Notificações:** Uso de toasts para feedback de sucesso e erro das operações.
 *   **Tratamento de Erros:** Mecanismo robusto para capturar e exibir mensagens de erro claras da API.
@@ -46,7 +44,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 1.  **Clone o repositório:**
     \`\`\`bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone gh repo clone EduardoPereiraLima-Dev/Teste-Violet-front-end
     cd agricultor-frontend
     \`\`\`
     (Se você baixou o código diretamente do v0, descompacte o arquivo e navegue até a pasta do projeto.)
