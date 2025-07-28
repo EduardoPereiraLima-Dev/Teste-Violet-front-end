@@ -2,6 +2,11 @@
 
 Este é o frontend de um sistema completo para gerenciar o cadastro de agricultores, incluindo operações CRUD (Criar, Ler, Atualizar, Excluir), validações de dados e uma interface de usuário moderna e responsiva.
 
+## 🎥 Demonstração em Vídeo
+
+[![Assista à demonstração](https://img.shields.io/badge/Ver%20Demonstração-Vimeo-blue?logo=vimeo)](https://vimeo.com/1105257600?share=copy)
+
+
 ## ✨ Funcionalidades
 
 *   **Cadastro de Agricultores (CRUD):**
